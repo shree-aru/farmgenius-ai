@@ -5,7 +5,7 @@ import { inspectAttr } from 'plugin-inspect-react-code'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/farmgenius-ai/',
+  base: '/',
   plugins: [inspectAttr(), react()],
   server: {
     port: 3000,

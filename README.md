@@ -5,9 +5,7 @@
 
 ## Live Demo
 
-**[https://shree-aru.github.io/farmgenius-ai](https://shree-aru.github.io/farmgenius-ai)**
-
-> Also available at: [https://sfcu3h7pl6kh4.kimi.page](https://sfcu3h7pl6kh4.kimi.page)
+**[https://sfcu3h7pl6kh4.kimi.page](https://sfcu3h7pl6kh4.kimi.page)**
 
 ## The Problem
 
